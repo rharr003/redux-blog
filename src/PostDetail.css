@@ -1,0 +1,14 @@
+.comments {
+  margin-top: 20px;
+  padding-top: 20px;
+  border-top: 1px solid #eee;
+}
+
+.comment {
+  margin: 10px 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #f3f3f3;
+  text-align: left;
+}
